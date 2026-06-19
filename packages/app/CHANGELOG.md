@@ -1,5 +1,18 @@
 # @shopify/app
 
+## 4.3.0
+
+### Patch Changes
+
+- 08eb0ad: Improve JSON Schema validation error messages for arrays and add a TOML table hint for object/array mismatches.
+- 0323612: Avoid checking flags for unrelated extension templates when generating a requested template.
+- Updated dependencies [08eb0ad]
+- Updated dependencies [2b3d2e2]
+  - @shopify/cli-kit@4.3.0
+  - @shopify/organizations@4.3.0
+  - @shopify/plugin-cloudflare@4.3.0
+  - @shopify/theme@4.3.0
+
 ## 4.2.0
 
 ### Minor Changes
